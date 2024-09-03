@@ -6,20 +6,25 @@ Duration: 3 minutes
 
 <u>1. Introduction: Setting the Stage (0:00 - 0:30 seconds)</u>
 
-**VISUALS
+**VISUALS**
+
 The video opens with a series of dynamic, high-energy shots of 
+
 MODERN CITIES
+
 DIVERSE PEOPLE WORKING 
+
 DIGITAL INTERACTIONS
+
 The visuals are sleek and futuristic, reflecting a world driven by technology and innovation.
 
-**TEXT OVERLAY
+**TEXT OVERLAY**
 "It’s not just about building a company. It’s about revolutionizing an economic system."
 
-**AUDIO
+**AUDIO**
 Uplifting, motivational electronic music plays in the background, building anticipation
 
-**VOICEOVER 
+**VOICEOVER** 
 (Backhaus CEO, speaking directly to the camera)
 "At NADOOIT, we’re not just another company. We’re rethinking the way economic systems function, creating something that benefits everyone involved."
 
