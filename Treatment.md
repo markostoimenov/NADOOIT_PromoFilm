@@ -19,18 +19,22 @@ DIGITAL INTERACTIONS
 The visuals are sleek and futuristic, reflecting a world driven by technology and innovation.
 
 **TEXT OVERLAY**
+
 *"It’s not just about building a company. It’s about revolutionizing an economic system."*
 
 **AUDIO**
+
 Uplifting, motivational electronic music plays in the background, building anticipation
 
 **VOICEOVER** 
+
 (Backhaus CEO, speaking directly to the camera)
 *"At NADOOIT, we’re not just another company. We’re rethinking the way economic systems function, creating something that benefits everyone involved."*
 
 *“NADOOIT ist nicht einfach eine weitere Firma. Wii gestalten die nächste Generation der Witchcraft.”*
 
 **PURPOSE**
+
 To hook the audience and immediately convey that NADOOIT is more than just a traditional business—it's a movement towards a new economic paradigm.
 
 ---
@@ -82,6 +86,7 @@ DIVERSE INDIVIDUALS USING NADOOIT’S PLATFORM, SHOWCASING THE SIMPLICITY AND EF
 NADOOIT APP INTERFACE, WITH CLEAR INDICATORS OF HOW USERS EARN, SHARE, AND MANAGE RESOURCES.
 
 **AUDIO**
+
 The music shifts to an empowering, upbeat tune, reflecting optimism and innovation.
 
 **VOICEOVER**
